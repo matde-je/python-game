@@ -1,4 +1,4 @@
-# pyhton
+# python
 Game in python
 
 Um tabuleiro. Sabemos que o tabuleiro é sempre um quadrado, mas a dimensão do mesmo pode variar. No documento das regras vemos um tabuleiro 7x7, mas poderia ser 15x15 ou 8x8, etc. A dimensão mínima é 5x5 e a máxima é 26x26.
